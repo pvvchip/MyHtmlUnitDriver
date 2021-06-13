@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyHtmlUnitDriver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyHtmlUnitDriver_jar</output-path>
+    <root id="archive" name="MyHtmlUnitDriver.jar">
+      <element id="module-output" name="MyHtmlUnitDriver" />
+    </root>
+  </artifact>
+</component>
